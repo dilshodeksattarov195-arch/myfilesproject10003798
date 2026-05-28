@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartdender",
+        "uuid": 37117854,
+        "checksum": "uqmvbe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
